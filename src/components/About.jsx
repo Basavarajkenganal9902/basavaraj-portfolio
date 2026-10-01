@@ -51,7 +51,7 @@ export default function About() {
             <span>ABOUT MY JOURNEY</span>
           </div>
           <h2 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
-            Passionate Engineering Student & <span className="text-gradient-cyan">Java Developer</span>
+            Passionate Engineering Student & <span className="text-gradient-cyan">Java Full Stack Developer</span>
           </h2>
           <p className="text-slate-400 text-sm sm:text-base leading-relaxed">
             Bridging theoretical computer science principles with modern full-stack web engineering.
